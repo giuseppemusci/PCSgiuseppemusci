@@ -25,6 +25,10 @@ int main(int argc,const char *argv[]) {
 			cout << citta << " " << media << "\n";
 			}
 		}
-		return 0;
+		
 	}
+	else {
+		cerr << "Errore nell'apertura del file\n";
+	}
+	return 0;
 }
