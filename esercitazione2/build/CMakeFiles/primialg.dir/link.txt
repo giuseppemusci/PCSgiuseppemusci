@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/primialg.dir/link.d CMakeFiles/primialg.dir/primialg.cpp.o -o primialg

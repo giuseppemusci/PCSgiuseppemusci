@@ -1,0 +1,5 @@
+/home/pcsdocker/Data/PCSgiuseppemusci/esercitazione2/build/CMakeFiles/primialg.dir
+/home/pcsdocker/Data/PCSgiuseppemusci/esercitazione2/build/CMakeFiles/bubblesort.dir
+/home/pcsdocker/Data/PCSgiuseppemusci/esercitazione2/build/CMakeFiles/posizionamento.dir
+/home/pcsdocker/Data/PCSgiuseppemusci/esercitazione2/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/PCSgiuseppemusci/esercitazione2/build/CMakeFiles/rebuild_cache.dir
