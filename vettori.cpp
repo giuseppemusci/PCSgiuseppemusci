@@ -3,7 +3,7 @@
 template<typename T>
 class vec2 {
     T x_;
-    T y_;
+    T y_; 
     
 public:
     /* Costruttore di default */
