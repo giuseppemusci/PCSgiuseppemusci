@@ -1,0 +1,1 @@
+Dal grafico 2 si nota come le misurazioni per il quicksort migliorato e il sort standard abbiamo un andamento molto simile. Perciò si può ipotizzare che std::sort implementi un algoritmo molto simile, almeno per vettori di dimensioni "piccole".
